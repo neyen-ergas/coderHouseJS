@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "Berserk",
+        "precio": 600,
+        "img": "imgsCat/Berserk.jpg",
+        "autor": "Kentaro Miura"
+      },
+      {
+        "id": 2,
+        "titulo": "Chainsawman",
+        "precio": 550,
+        "img": "imgsCat/Csm.png",
+        "autor": "Tatsuki Fujimoto"
+      },
+      {
+        "id": 3,
+        "titulo": "Punpun",
+        "precio": 500,
+        "img": "imgsCat/Punpun.png",
+        "autor": "Inio Asano"
+      },
+      {
+        "id": 4,
+        "titulo": "Jujutsu Kaisen",
+        "precio": 450,
+        "img": "imgsCat/JujutsuKaisen.jpg",
+        "autor": "Gege Akutami"
+      }
+    ]
